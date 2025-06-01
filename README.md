@@ -1,5 +1,7 @@
-### EXPERIMENT-07-DEVELOPMENT-OF-LADDER-LOGIC-FOR-TIMER-ONDELAY-FUCTION-ON-PLC-HARDWARE-
 
+### EXPERIMENT-07-DEVELOPMENT-OF-LADDER-LOGIC-FOR-TIMER-ONDELAY-FUCTION-ON-PLC-HARDWARE-
+### NAME: SWETHA N
+### DEPT: CSE(IOT)
 ### AIM 
 To develop and execute a ladder logic program using an ON-Delay Timer (TON) in Delta SV2 PLC, and observe its behavior on PLC hardware.
 ### Hardware & Software Required:
@@ -53,9 +55,15 @@ S.No	Input (X0)	Time Delay (sec)	Output (Y0)
 
 ###  HARDWARE SETUP 
 
+![WhatsApp Image 2025-05-17 at 10 00 32_85cca568](https://github.com/user-attachments/assets/95705157-e8a2-47fa-bd6b-072db9f36602)
 
+![WhatsApp Image 2025-05-17 at 10 00 32_31f3e353](https://github.com/user-attachments/assets/1b9a60b2-c5c4-4504-9b95-49661e3e3242)
 
 
 ### LADDER LOGIC
+
+![WhatsApp Image 2025-05-17 at 10 28 43_dd541c9b](https://github.com/user-attachments/assets/b93701f0-a791-406f-b296-efe44a47ce1d)
+
+
 ### Conclusion:
 The ON-Delay timer function was successfully implemented using Delta SV2 PLC. The output activated after a 0.5-second delay once the input was turned ON.
